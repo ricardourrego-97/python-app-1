@@ -1,0 +1,13 @@
+site_name: 'python-app-1' 
+site_description: 'Main documentation for the python-app-1' 
+repo_url: https://github.com/Workshops-IBMColombia/python-app-1
+edit_uri: edit/main/docs 
+  
+
+plugins: 
+  - techdocs-core 
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js` 
+nav: 
+  - Overview: 
+      - Getting started: 'docs/index.md' 
